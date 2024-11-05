@@ -44,6 +44,9 @@ git commit
 git push
 git clone
 git status
+git checkout
+git log
+git branch
 ------ HARRISON'S ADDED TEXT ENDS -----
 
 
