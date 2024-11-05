@@ -37,3 +37,13 @@ Workflow:
 7. Once approved, merge the PR.
 
 Git is powerful, flexible, and essential for managing code in collaborative development environments.
+
+----- HARRISON'S ADDED -----
+git add.
+git commit
+git push
+git clone
+git status
+------ HARRISON'S ADDED TEXT ENDS -----
+
+
