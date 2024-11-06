@@ -50,3 +50,11 @@ git branch
 ------ HARRISON'S ADDED TEXT ENDS -----
 
 
+------- Gil's text ---------
+git init
+git add.
+git commit -m ""
+git push origin main
+git pull
+git merge  
+--------Gil's added text---------
